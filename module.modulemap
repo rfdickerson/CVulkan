@@ -1,0 +1,5 @@
+module CVulkan [system] {
+  header "/usr/include/vulkan.h"
+  link "vulkan"
+  export *
+}
